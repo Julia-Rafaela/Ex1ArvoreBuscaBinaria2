@@ -13,7 +13,7 @@ public class main {
         	System.out.print("pré-ordem: ");
             arvore.prefixSearch();
             System.out.println();
-            System.out.print("ordem: ");
+            System.out.print("ordem crescente: ");
             arvore.infixSearch();
             System.out.println();
             System.out.print("pós-ordem: ");
